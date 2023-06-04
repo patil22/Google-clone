@@ -21,11 +21,11 @@ const Home = () => {
           </div>
           <div className="home_headeright">
             {/* <Link to="/Gmail"> Gmail </Link> */}
-            <a href= "https://support.google.com/mail/answer/56256?hl=en">Gmail</a>
+            <a href= "">Gmail</a>
 
             {/* <Link to="/Images"> Images</Link> */}
 
-            <a href = "https://www.google.co.in/imghp?hl=en&tab=ri&authuser=0&ogbl"> Images</a>
+            <a href = ""> Images</a>
             {/* <AppIcon/> */}
             <img id="img" src={require("../Images/dots-nine.png")}></img>
             <Avatar />
